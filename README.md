@@ -1,31 +1,22 @@
 ## Hi there 👋 I'm Asad Babayev
 
-🚀 **Junior Backend Developer | Java (Spring Boot) & .NET Core**
+🚀 **Junior Backend Developer | Java & .NET Core**
 
-### 💡 About Me:
-I am a Backend Developer focused on building **reliable and efficient server-side applications**. While my primary expertise lies in **Java and Spring Boot**, I have real-world experience with **.NET Core**, allowing me to bridge both ecosystems effectively. I enjoy writing clean, maintainable code following **SOLID principles** and solving complex real-world problems in team environments.
+#### 💡 About Me:
+Backend Developer focused on building **reliable server-side applications**. I specialize in **Java (Spring Boot)** and **.NET Core**, writing clean code following **SOLID principles**. Currently seeking **Junior/Intern roles** in **Kraków** or across **Poland** 🇵🇱.
 
-Currently looking for a **Junior or Intern Backend Developer** role in **Kraków, Poland** (open to relocation within Poland 🇵🇱).
+#### 🛠 Tech Stack:
+*   **Back-end:** Java (Spring Boot/Hibernate), C# (.NET Core/EF)
+*   **Database & API:** SQL, REST APIs, Swagger, JWT
+*   **Tools:** Docker, Git, Maven, CI/CD
+*   **Architecture:** OOP, SOLID, Microservices, Unit Testing (JUnit/Mockito)
 
-### 🛠 Tech Stack:
+#### 🚀 Key Strengths:
+*   **Full Stack Backend:** Comfortable switching between Java and .NET environments.
+*   **Clean Code:** Focused on maintainable, secure, and scalable architecture.
+*   **Team Ready:** Fluent in English; experienced in Agile/Scrum workflows.
 
-*   **Languages:** Java, C#, SQL, JavaScript
-*   **Frameworks:** Spring Boot, Spring Security, Hibernate, .NET Core, Entity Framework
-*   **Tools & DevOps:** Docker, Git/GitHub, Maven, CI/CD Pipelines
-*   **Testing & API:** JUnit, Mockito, REST APIs, Swagger, JWT
-*   **Architecture:** OOP, SOLID, Design Patterns, MVC, Microservices
-
-### 🚀 What I Can Bring:
-
-*   **Versatility:** Seamlessly switch between Java and .NET stacks based on project needs.
-*   **Quality:** Clean, efficient backend code that is easy to scale and maintain.
-*   **Security:** Building secure REST APIs with robust validation and error handling.
-*   **Reliability:** High software standards through unit testing and sound architectural practices.
-
----
-
-### 📧 Contact Me:
-
+#### 📧 Contact Me:
 *   **Email:** asad_babayev@outlook.com
 *   **Phone:** +48 512 802 048
 
